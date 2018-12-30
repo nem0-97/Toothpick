@@ -1,4 +1,4 @@
-//TODO: Find good stopping point, or 'zoom out' as time goes on
+//TODO: Maybe make more efficient(and maybe as zoom out sytematically remove toothpicks from beginning of full toothpicks(ones to small to botice being gone))
 
 let full=[];//toothpicks can't add onto
 let open=[];//toothpicks with one or 2 open edges
